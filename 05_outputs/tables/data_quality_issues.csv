@@ -1,0 +1,11 @@
+issue,affected_source,affected_rows,percentage,issue_type,severity_for_analysis,recommended_handling,needs_manual_check
+Missing app_version,Google Play,459,14.24,data limitation,medium,Keep null; stratify version analyses by known-version coverage.,No
+Very short reviews (<=10 characters),Both,533,14.23,natural data characteristic,low,Retain; review manually and treat as low-context text.,Yes
+Exact duplicate review text,Both,417,11.13,natural/ambiguous duplication,medium,Retain distinct review IDs; inspect groups before text-level modeling.,Yes
+Missing title,Google Play,3223,100.0,source-unavailable field,none,Represent as null; do not treat as a quality failure.,No
+Detected language unavailable,Both,3745,100.0,methodological limitation,medium,Run language detection later; do not substitute collection locale.,No
+Developer reply unavailable,App Store,522,100.0,source-unavailable field,low,Report platform availability separately.,No
+Collection locale unavailable,App Store,522,100.0,source-unavailable field,low,Use storefront metadata only; do not infer language.,No
+Source imbalance,Both,2701,86.06,methodological limitation,high,Report source shares and consider source-stratified analysis; do not weight automatically.,No
+Temporal coverage mismatch,Both,1944,51.91,methodological limitation,high,Use overlap or recent windows for cross-platform comparisons.,No
+App Store public endpoint instability,App Store,522,100.0,methodological limitation,high,Preserve provenance and qualify retrievability; do not claim lifetime completeness.,No

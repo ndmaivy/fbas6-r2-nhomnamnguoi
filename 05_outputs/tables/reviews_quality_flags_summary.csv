@@ -1,0 +1,16 @@
+quality_flag,source,count,denominator,percentage,treatment
+very_short,Total,533,3745,14.23,retained unless independently invalid
+exact_duplicate_text,Total,417,3745,11.13,retained unless independently invalid
+missing_app_version,Total,459,3745,12.26,retained unless independently invalid
+suspected_spam,Total,0,3745,0.0,retained unless independently invalid
+invalid_rejected,Total,0,3745,0.0,rejected
+very_short,Google Play,476,3223,14.77,retained unless independently invalid
+exact_duplicate_text,Google Play,383,3223,11.88,retained unless independently invalid
+missing_app_version,Google Play,459,3223,14.24,retained unless independently invalid
+suspected_spam,Google Play,0,3223,0.0,retained unless independently invalid
+invalid_rejected,Google Play,0,3223,0.0,rejected
+very_short,App Store,57,522,10.92,retained unless independently invalid
+exact_duplicate_text,App Store,34,522,6.51,retained unless independently invalid
+missing_app_version,App Store,0,522,0.0,retained unless independently invalid
+suspected_spam,App Store,0,522,0.0,retained unless independently invalid
+invalid_rejected,App Store,0,522,0.0,rejected

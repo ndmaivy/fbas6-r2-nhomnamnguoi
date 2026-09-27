@@ -1,0 +1,30 @@
+subtype_code,parent_family,status,description,example_source,example_review_id
+APP_LAG_FREEZE,PERFORMANCE_RELIABILITY,PROVISIONAL_SUBTYPE,App becomes slow or unresponsive,Google Play,e1b338d0-d84b-45ab-9f51-ec35cd76d2af
+APP_EXIT_UNAVAILABLE,PERFORMANCE_RELIABILITY,PROVISIONAL_SUBTYPE,App exits or cannot be opened,Google Play,e24f9216-51cf-4eb1-86b7-ed37ea9d208d
+INTERFACE_CLUTTER,UX_NAVIGATION_COMPLEXITY,PROVISIONAL_SUBTYPE,Excess visual density or confusing layout,App Store,13216345199
+NAVIGATION_SCREEN_STATE,UX_NAVIGATION_COMPLEXITY,PROVISIONAL_SUBTYPE,Navigation or view position does not support the task,Google Play,914d31b8-1b32-42b1-9356-2cb08c26aba3
+MOBILE_TABLET_LAYOUT,UX_NAVIGATION_COMPLEXITY,CANDIDATE_SUBTYPE,Tablet orientation or mobile control size is unsuitable,App Store,13691875675
+REGISTRATION_FAILURE,ONBOARDING_KYC,PROVISIONAL_SUBTYPE,New account cannot be created or approved,Google Play,02cf4533-f984-4fee-9f9a-dfcca55f1a06
+INITIAL_IDENTITY_VERIFICATION,ONBOARDING_KYC,PROVISIONAL_SUBTYPE,Initial face video or identity verification fails,Google Play,0965c4ed-df13-48d6-b0f0-8f5c739800da
+DIGITAL_SIGNATURE_CONTEXT,ONBOARDING_KYC,CONTEXT_REQUIRED,Signature photo flow fails but onboarding stage must be verified,Google Play,f93f9a8e-c094-4ceb-8268-f4ba73dbb18c
+LOGIN_ACCESS,AUTHENTICATION_IOTP,PROVISIONAL_SUBTYPE,Existing account login cannot complete,App Store,12387003343
+IOTP_BIOMETRIC_AUTH,AUTHENTICATION_IOTP,PROVISIONAL_SUBTYPE,iOTP is missing or biometric login fails,Google Play,b431f770-1878-4782-99ba-23a4eadeb8a8
+ORDER_SUBMISSION_STATUS,TRADING_ORDER_EXECUTION,PROVISIONAL_SUBTYPE,Order cannot be placed matched modified or cancelled,Google Play,ab2dfff3-3256-4426-bcff-90608588dd94
+ORDER_ENTRY_CONTEXT,TRADING_ORDER_EXECUTION,PROVISIONAL_SUBTYPE,Order entry hides needed current price or holding context,App Store,12092046546
+DEPOSIT_CREDIT_DELAY,DEPOSIT_WITHDRAWAL_TRANSFER,PROVISIONAL_SUBTYPE,User reports deposit not credited or funds not available,App Store,13013318242
+WITHDRAW_TRANSFER_BLOCK,DEPOSIT_WITHDRAWAL_TRANSFER,PROVISIONAL_SUBTYPE,Withdrawal or transfer cannot complete,Google Play,c06ce68c-7cf1-42e5-b2f7-5deb78d724b4
+BANK_LINK_FUND_VALIDATION,DEPOSIT_WITHDRAWAL_TRANSFER,PROVISIONAL_SUBTYPE,Bank link or deposited fund validation does not complete,Google Play,1eb01879-8d2e-41ce-a4b4-1dfd9c6ffd53
+SUPPORT_REACHABILITY,CUSTOMER_SUPPORT,PROVISIONAL_SUBTYPE,Customer cannot reach support or waits too long,Google Play,74c2b3de-07a9-4e83-afe4-76ce8134f8f0
+SUPPORT_RESPONSE_QUALITY,CUSTOMER_SUPPORT,PROVISIONAL_SUBTYPE,Support answer does not address user issue,App Store,11764988478
+AI_SUPPORT_CONTEXT,CUSTOMER_SUPPORT,CANDIDATE_SUBTYPE,AI assistant reply lacks relevant context or task knowledge,App Store,13691875675
+PRICE_BOARD_COMPLETENESS,MARKET_DATA_INFORMATION,PROVISIONAL_SUBTYPE,Market quote or board omits needed data,Google Play,45b7bb0f-cd74-43a9-9b85-bd050b6a1f9f
+MARKET_DATA_FRESHNESS,MARKET_DATA_INFORMATION,CANDIDATE_SUBTYPE,Quote data is stale or requires refreshing,App Store,12901670031
+ACCOUNT_BALANCE_PNL,PORTFOLIO_ACCOUNT_INFORMATION,PROVISIONAL_SUBTYPE,Account balances holdings or P and L are missing or confusing,App Store,11750539058
+CHART_STATE_PERSISTENCE,PORTFOLIO_ACCOUNT_INFORMATION,PROVISIONAL_SUBTYPE,Chart indicators or settings fail to persist,Google Play,e3383658-6e3a-42cd-9016-5563a4a31347
+LOAN_RATE_LEVEL,FEE_PRICING,CANDIDATE_SUBTYPE,User requests a lower financing rate,Google Play,646b0a5b-3f6c-4f89-9ce4-9f174e440c38
+LOST_PHONE_RECOVERY,ACCOUNT_RECOVERY_PROFILE_CHANGE,CANDIDATE_SUBTYPE,Account recovery after lost phone is delayed,App Store,11764988478
+EXISTING_PROFILE_UPDATE,ACCOUNT_RECOVERY_PROFILE_CHANGE,CANDIDATE_SUBTYPE,Existing account contact or identity update fails,App Store,13177936096
+SECURITY_PACKAGE_CONCERN,SECURITY_ACCOUNT_PROTECTION,CANDIDATE_SUBTYPE,User questions paid protection policy,Google Play,c6eae58a-de68-4a0d-add8-231850981783
+TRANSACTION_EMAIL_DELAY,NOTIFICATION_COMMUNICATION,CANDIDATE_SUBTYPE,Expected transaction email arrives late,App Store,12388866897
+RESEARCH_USEFULNESS,MARKET_RESEARCH_RECOMMENDATION_UTILITY,CANDIDATE_SUBTYPE,User questions the usefulness of market research,App Store,13446154783
+MOBILE_DATA_USAGE,EXCESSIVE_DATA_CONSUMPTION,CANDIDATE_SUBTYPE,Reported session or launch consumes mobile data,App Store,12492849736

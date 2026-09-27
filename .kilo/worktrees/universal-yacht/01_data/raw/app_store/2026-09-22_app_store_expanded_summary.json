@@ -1,0 +1,139 @@
+{
+  "app": "TCInvest",
+  "app_id": "1037255487",
+  "source": "App Store",
+  "collection_date": "2026-09-22",
+  "rows": 447,
+  "unique_review_ids": 447,
+  "duplicate_review_ids": 0,
+  "earliest_review": "2024-09-18T10:02:07+00:00",
+  "latest_review": "2026-04-29T02:36:56+00:00",
+  "rating_distribution": {
+    "1": 174,
+    "2": 25,
+    "3": 20,
+    "4": 16,
+    "5": 212
+  },
+  "storefront_distribution": {
+    "vn": 447
+  },
+  "missing_content": 0,
+  "missing_rating": 0,
+  "missing_date": 0,
+  "missing_version": 0,
+  "provenance_counts": {
+    "raw_files_parsed": 219,
+    "raw_review_occurrences": 750,
+    "raw_json_contribution_unique_ids": 100,
+    "raw_responses_contribution_unique_ids": 353,
+    "ids_appearing_in_multiple_source_groups": 162
+  },
+  "canonical_scope": "All unique TCInvest review IDs retrievable from saved raw App Store evidence",
+  "deduplication_rule": "review_id only",
+  "language_handling": "No language detection was run. lang is unknown because saved raw review entries do not contain reliable review-level language metadata.",
+  "substantive_field_conflicts": {
+    "count": 0,
+    "review_ids": {}
+  },
+  "exact_content_duplicate_policy": {
+    "rule": "Different review IDs are retained even when content is exactly identical.",
+    "outside_records_revalidated_and_retained": 8,
+    "records": [
+      {
+        "review_id": "11736891062",
+        "user_name": "フォローカイ",
+        "rating": "5",
+        "updated_at": "2024-09-18T03:08:49-07:00",
+        "raw_source_files": "raw_responses/page_10_mostHelpful.xml",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      },
+      {
+        "review_id": "11737005757",
+        "user_name": "huỷ diệt áp sờ to",
+        "rating": "5",
+        "updated_at": "2024-09-18T03:56:38-07:00",
+        "raw_source_files": "raw_responses/page_10_mostHelpful.xml",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      },
+      {
+        "review_id": "11739561202",
+        "user_name": "Trade and Stock",
+        "rating": "5",
+        "updated_at": "2024-09-18T19:47:55-07:00",
+        "raw_source_files": "raw_json/page_08.json",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      },
+      {
+        "review_id": "11739650810",
+        "user_name": "Sinbad_dao",
+        "rating": "5",
+        "updated_at": "2024-09-18T20:30:05-07:00",
+        "raw_source_files": "raw_json/page_08.json",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      },
+      {
+        "review_id": "11739674478",
+        "user_name": "Song Lam 2012",
+        "rating": "5",
+        "updated_at": "2024-09-18T20:41:33-07:00",
+        "raw_source_files": "raw_json/page_08.json",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      },
+      {
+        "review_id": "11740117898",
+        "user_name": "Abcvtai",
+        "rating": "5",
+        "updated_at": "2024-09-19T00:28:12-07:00",
+        "raw_source_files": "raw_json/page_08.json",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      },
+      {
+        "review_id": "12727113643",
+        "user_name": "zumi ng",
+        "rating": "5",
+        "updated_at": "2025-06-02T05:18:56-07:00",
+        "raw_source_files": "raw_responses/page_05_mostHelpful.xml",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      },
+      {
+        "review_id": "13276981462",
+        "user_name": "TTungwwđ",
+        "rating": "1",
+        "updated_at": "2025-10-17T00:44:07-07:00",
+        "raw_source_files": "raw_json/page_04.json",
+        "storefront": "vn",
+        "app_id": "1037255487",
+        "valid_independent_review_id": true,
+        "retained_despite_exact_content_duplicate": true
+      }
+    ],
+    "note": "All eight records have unique review IDs and valid independent TCInvest/VN raw evidence. Generic or identical content is not a deduplication key."
+  },
+  "limitations": [
+    "The expanded dataset represents saved public-response evidence, not all lifetime App Store reviews.",
+    "Public endpoint visibility and pagination can vary across collection attempts.",
+    "Storefront is collection metadata and does not establish review language."
+  ]
+}

@@ -1,0 +1,13 @@
+dimension,category,count,percentage
+source,Google Play,65,65.0
+source,App Store,35,35.0
+rating_band,LOW,60,60.0
+rating_band,MID,15,15.0
+rating_band,HIGH,25,25.0
+label_status,REVIEWED,100,100.0
+label_status,UNREVIEWED,0,0.0
+label_status,NEEDS_SECOND_REVIEW,0,0.0
+completion_status,COMPLETE,100,100.0
+manual_reuse_status,REUSED_COMPLETE,63,63.0
+manual_reuse_status,NEW_SAMPLE_UNREVIEWED,30,30.0
+manual_reuse_status,REUSED_NEEDS_SECOND_REVIEW,7,7.0

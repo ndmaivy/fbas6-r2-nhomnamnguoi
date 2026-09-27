@@ -1,0 +1,38 @@
+{
+  "app": "TCInvest",
+  "app_id": "1037255487",
+  "source": "App Store",
+  "version": "expanded_v2",
+  "collection_date": "2026-09-22",
+  "rows": 522,
+  "unique_review_ids": 522,
+  "duplicate_review_ids": 0,
+  "previous_canonical_rows": 447,
+  "validated_candidate_ids_added": 75,
+  "earliest_review": "2023-04-14T03:22:33+00:00",
+  "latest_review": "2026-09-14T07:44:28+00:00",
+  "rating_distribution": {
+    "1": 217,
+    "2": 31,
+    "3": 25,
+    "4": 17,
+    "5": 232
+  },
+  "storefront_distribution": {
+    "vn": 522
+  },
+  "missing_content": 0,
+  "missing_rating": 0,
+  "missing_date": 0,
+  "missing_version": 0,
+  "deduplication_rule": "review_id only",
+  "canonical_scope": "Union of the prior 447-review canonical snapshot and 75 candidate IDs validated against saved VN diagnostic evidence",
+  "candidate_validation": {
+    "VALID": 75
+  },
+  "limitations": [
+    "Public App Store endpoint coverage is unstable and the dataset is not all lifetime App Store reviews.",
+    "The v2 dataset represents all validated unique IDs in saved evidence available to this project at rebuild time.",
+    "Identical content under different review IDs is retained."
+  ]
+}

@@ -1,0 +1,13 @@
+target_month,target_month_end,snapshot_timestamp,snapshot_date,days_from_target_month_end,app_id,app_title,installs_text,min_installs,install_band_lower,install_band_upper,rating_score,rating_count,review_count,archive_url,source_url,extraction_method,extraction_confidence,status,notes
+2024-09,2024-09-30,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2024-10,2024-10-31,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2024-11,2024-11-30,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2024-12,2024-12-31,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-01,2025-01-31,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-02,2025-02-28,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-03,2025-03-31,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-04,2025-04-30,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-05,2025-05-31,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-06,2025-06-30,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-07,2025-07-31,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end
+2025-08,2025-08-31,,,,com.fss.tcbs.mobiletrading,,,,,,,,,,,NONE,LOW,NO_SNAPSHOT,no snapshot in target month or within +/-15 days of month-end

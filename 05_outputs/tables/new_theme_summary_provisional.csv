@@ -1,0 +1,6 @@
+﻿new_theme_subtype,incident_count,review_count,evidence_examples,recurring_theme_consideration
+DIGITAL_SIGNATURE_CONTEXT,1,1,"bắt làm chữ ký số mà cứ chụp ảnh xong là đơ, ko làm đc cái gì nữa, xóa đi cài lạ",NO — single isolated case
+MOBILE_TABLET_LAYOUT,2,2,"Cần thêm option điều chỉnh Font Size. Hiện tại mọi thứ hơi nhỏ. | nếu có bản tối ưu cho table màn hình ngang thì tốt quá, dễ theo dõi biểu đồ hơn",YES — multiple incidents
+APP_STORE_REGION_AVAILABILITY,1,1,Phải chuyển vùng trên App Store mới tìm đc app này,NO — single isolated case
+DATA_SELLING_SUSPICION,1,1,Nghi vấn bán dữ liệu cho lái. Tôi cầm cổ phiếu DBC 4 tháng... Không thể có sự tr,NO — single isolated case
+EXCESSIVE_ADS,1,1,"quảng cáo nhiều, truy cập vào được tài khoản thì phải tắt 7749 cái quảng cáo IPO",NO — single isolated case

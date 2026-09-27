@@ -1,0 +1,14 @@
+{
+  "flagged_reviews_total": 93,
+  "flagged_incidents_total": 103,
+  "new_theme_incidents_total": 18,
+  "additional_nonflagged_new_theme_incidents": 12,
+  "completed_flagged_reviews": 93,
+  "completed_flagged_incidents": 103,
+  "completed_additional_new_theme_incidents": 12,
+  "remaining_flagged_reviews": 0,
+  "remaining_incidents": 0,
+  "current_batch": "QA Batch 10 (12 non-flagged new_theme incidents)",
+  "last_completed_review_key": "App Store|14504211053",
+  "updated_at": "2026-09-23T07:45:00"
+}

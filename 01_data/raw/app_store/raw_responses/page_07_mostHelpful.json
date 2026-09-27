@@ -1,0 +1,2568 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/uk/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id751906749"
+          },
+          "name": {
+            "label": "ChungND1310"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-21T19:23:34-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11750539058"
+        },
+        "title": {
+          "label": "Cần cải thiện"
+        },
+        "content": {
+          "label": "Phần đăng nhập & các bước thực hiện nhanh , thuận lợi\nTuy nhiên có các phần cần khắc phục\n+ Đợt vừa rồi ở phần tất cả không hiện thị thông số tiền trong 2 TK ngân hàng và tk ký quỹ ( bảng all )\n+ Margin không hiển thị + -",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1391176571"
+          },
+          "name": {
+            "label": "xthangnguyen"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-01-10T00:05:02-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12166276133"
+        },
+        "title": {
+          "label": "app ngu như đầu cu"
+        },
+        "content": {
+          "label": "app ngu như đầu cu",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1433526416"
+          },
+          "name": {
+            "label": "Neo199523"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-01-09T22:56:46-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12166129599"
+        },
+        "title": {
+          "label": "Lừa đảo"
+        },
+        "content": {
+          "label": "Lừa đảo giam tiền của người dùng sau khi nhận chuyển khoản",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id322362035"
+          },
+          "name": {
+            "label": "KhiCon_9x"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2025-01-08T16:46:10-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12161401216"
+        },
+        "title": {
+          "label": "Ứng dụng lừa đảo, thu thuế phí cao"
+        },
+        "content": {
+          "label": "Lãi 3 triệu trừ thuế phí hết còn vài trăm nghìn. Không nên đầu tư vào đây",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id519175857"
+          },
+          "name": {
+            "label": "vn3hv"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-12-30T20:48:06-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12126154861"
+        },
+        "title": {
+          "label": "Không mở được app trên MacBook Air M1"
+        },
+        "content": {
+          "label": "Không mở được app trên MacBook Air M1",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1735509060"
+          },
+          "name": {
+            "label": "Mymymeomeo910"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-12-23T17:43:31-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12098535718"
+        },
+        "title": {
+          "label": "App lởm"
+        },
+        "content": {
+          "label": "App lởm, cùi nhất trong các app chứng khoán. 3 ngày lag 7 ngày đơ",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id741110450"
+          },
+          "name": {
+            "label": "ngocduclt2"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-12-22T01:52:10-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12092046546"
+        },
+        "title": {
+          "label": "Phần đặt lệnh cổ phiếu thực sự chán. Đơn điệu không hiển được thông tin thị trường thời điểm đó."
+        },
+        "content": {
+          "label": "Nhiều lúc đặt giá xong mở ra xem giá tt đã thay đổi từ lúc nào. Phần đặt khối lượng cũng vậy, nhiều lúc quên ko biết khối lượng cp của mình có bao nhiêu lại phải quay lại từ đầu để xem. Thực sự rất khó chịu",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1714919750"
+          },
+          "name": {
+            "label": "Hải vh"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-12-20T04:30:44-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12084617137"
+        },
+        "title": {
+          "label": "Không chê điểm gì"
+        },
+        "content": {
+          "label": "6 sao",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1472757750"
+          },
+          "name": {
+            "label": "luxk82"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-12-05T22:45:56-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12031084904"
+        },
+        "title": {
+          "label": "Hay bị lỗi"
+        },
+        "content": {
+          "label": "Vào danh mục treo đơ luôn",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1676712557"
+          },
+          "name": {
+            "label": "Tcbs rác"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-28T23:11:38-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12004133798"
+        },
+        "title": {
+          "label": "App rác rưỡi lAm hai nhà đâu Tu"
+        },
+        "content": {
+          "label": "App rác rưỡi.29/11 nguyên phiên chiều không vào được app. Cty nay khốn nạn lắm",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id573034624"
+          },
+          "name": {
+            "label": "skylongines"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-28T22:58:51-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12004106819"
+        },
+        "title": {
+          "label": "Lỗi app"
+        },
+        "content": {
+          "label": "Cần cải thiện để khách hàng có trải nghiệm tốt",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1513399004"
+          },
+          "name": {
+            "label": "User 123444444"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-28T22:26:10-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "12004038909"
+        },
+        "title": {
+          "label": "Lỗi liên tục"
+        },
+        "content": {
+          "label": "1 sao",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1001851115"
+          },
+          "name": {
+            "label": "viethoavnm"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-26T23:36:25-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11996760927"
+        },
+        "title": {
+          "label": "Trải nghiệm kém"
+        },
+        "content": {
+          "label": "App có giao diện khó sử dụng",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1658932402"
+          },
+          "name": {
+            "label": "beofia"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-24T22:20:13-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11989241555"
+        },
+        "title": {
+          "label": "Không đặt được lệnh bán"
+        },
+        "content": {
+          "label": "Mua được nhưng lệnh bán không được\nTrong khi mục tài sản vẫn hiện số dư, mà lúc đặt lệnh bán lại hiện lỗi không đủ số dư",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id679648822"
+          },
+          "name": {
+            "label": "ASATAKI"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-13T22:18:59-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11947847736"
+        },
+        "title": {
+          "label": "App lỗi xoay ngay"
+        },
+        "content": {
+          "label": "App không xoay ngay được khi xem bảng giá và đồ thị. Xoá app cài lại vẫn bị",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id439503222"
+          },
+          "name": {
+            "label": "Zônie"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-11T18:27:47-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11940079131"
+        },
+        "title": {
+          "label": "App quá nhiều lỗi vặt"
+        },
+        "content": {
+          "label": "Bấm vào chi tiết realtime toàn hiện bảng chữ cái lên, dữ liệu mỗi lần vào app đều không tự cập nhật. Toàn phải tắt hẳn mở lại mới có data",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1245984165"
+          },
+          "name": {
+            "label": "Hồ T"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-11-01T23:32:47-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11902304773"
+        },
+        "title": {
+          "label": "App ck ok nhất mình từng dùng"
+        },
+        "content": {
+          "label": "App có cả Power BI để xem tăng trưởng tí dụng của ngân hàng và nhóm nợ quá tuyệt vời. Đi đầu trong đổi mới mn nên trải nghiệm.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1057343604"
+          },
+          "name": {
+            "label": "hyleechie"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-31T00:32:47-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11894826169"
+        },
+        "title": {
+          "label": "Khó dùng và hay treo"
+        },
+        "content": {
+          "label": "App dở hơi",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1310724413"
+          },
+          "name": {
+            "label": "Q-Mai"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-24T22:01:22-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11871881939"
+        },
+        "title": {
+          "label": "Ứng dụng ngu si"
+        },
+        "content": {
+          "label": "Tổng đài hết sức coi thường khách hàng khi lôi Ai ra hỗ trợ khách hàng",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id478614410"
+          },
+          "name": {
+            "label": "Trungdungth"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-24T21:59:20-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11871877953"
+        },
+        "title": {
+          "label": "Ngu si"
+        },
+        "content": {
+          "label": "Liên quan tới tài chính mà đem Ai ra chăm sóc và nói chuyện với khách hàng. Rất bực mình",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1289724649"
+          },
+          "name": {
+            "label": "AÂ&"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-22T20:37:04-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8.2"
+        },
+        "id": {
+          "label": "11864397009"
+        },
+        "title": {
+          "label": "cskh gọi cũng như không . Quá thất vọng!"
+        },
+        "content": {
+          "label": "App khônh gửi otp về. Không vào được tài khoảng. Tìm bên hỗ trợ không ra. Số điện thoại cskh gọi cũng như không . Quá thất vọng!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id309214340"
+          },
+          "name": {
+            "label": "Louis Van"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-15T06:10:07-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11836640608"
+        },
+        "title": {
+          "label": "1sao chữ Tín."
+        },
+        "content": {
+          "label": "Tcbs đảo các chương trình Review/Giới thiệu, xong không thanh toán.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id357218473"
+          },
+          "name": {
+            "label": "Bdquoc"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-10T22:28:26-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11820582267"
+        },
+        "title": {
+          "label": "Không hài lòng"
+        },
+        "content": {
+          "label": "Tự động trừ tiền đã nạp vào ký quỹ mà không thông báo",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id572973688"
+          },
+          "name": {
+            "label": "Reviewer Uy Tín TOP1"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-09T01:01:19-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11813796447"
+        },
+        "title": {
+          "label": "Bảo mật không có"
+        },
+        "content": {
+          "label": "Version hiện tại có thể đăng nhập tự do, không cần nhập mật khẩu hoặc face ID - trong cả 2 trường hợp cài đặt dùng face ID để đăng nhập và không dùng. \nBảo mật quá lỏng lẻo.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1027802038"
+          },
+          "name": {
+            "label": "lon2002"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-07T16:07:22-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11809107324"
+        },
+        "title": {
+          "label": "OK"
+        },
+        "content": {
+          "label": "Được",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id908426983"
+          },
+          "name": {
+            "label": "hua minh hang"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-06T18:24:37-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11805859173"
+        },
+        "title": {
+          "label": "App như lon hihi"
+        },
+        "content": {
+          "label": "Nói chung là chê nha giao dịch lâu mà đợi như chờ chồng chiến tranh về z ak",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1406354001"
+          },
+          "name": {
+            "label": "Hụbbbu"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-05T15:50:08-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11801692398"
+        },
+        "title": {
+          "label": "Oke"
+        },
+        "content": {
+          "label": "Oke",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1707803850"
+          },
+          "name": {
+            "label": "khúc sơn tùng"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-05T08:00:43-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11800367652"
+        },
+        "title": {
+          "label": "Tự động thoát"
+        },
+        "content": {
+          "label": "Giờ cứ vào là văng ra",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1311525253"
+          },
+          "name": {
+            "label": "MoL6688"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-10-01T22:23:11-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11787725265"
+        },
+        "title": {
+          "label": "App update xong không vào được"
+        },
+        "content": {
+          "label": "Update xong không vào được app, mấy lần trước cũng vậy, update xong là lỗi .",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1517850008"
+          },
+          "name": {
+            "label": "Dorinanh"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-30T14:28:20-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11782829718"
+        },
+        "title": {
+          "label": "Lừa đảo"
+        },
+        "content": {
+          "label": "Khi ngta đặt lệnh mua phải mặc định là lệnh thường chứ không phải là lệnh ký quỹ. Ký quỹ cái gì mà trừ hết 50% tiền đặt mua trong khi không có lời. Làm như vậy thành ra lỗ luôn . Tụi bây làm vậy mà coi được. Trả lại tiền ký quỹ cho ngta đi.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1528372540"
+          },
+          "name": {
+            "label": "Fatus coffee"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-29T19:34:20-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "5.8"
+        },
+        "id": {
+          "label": "11779920813"
+        },
+        "title": {
+          "label": "Lỗi"
+        },
+        "content": {
+          "label": "Sáng nay đăng nhập đơ, không vào được.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1578714872"
+          },
+          "name": {
+            "label": "Nvd08038"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-26T22:50:21-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11769185523"
+        },
+        "title": {
+          "label": "105CL63336"
+        },
+        "content": {
+          "label": "Tôi yêu việt nam",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1411446884"
+          },
+          "name": {
+            "label": "MrDuy1979"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-25T18:54:35-07:00"
+        },
+        "im:rating": {
+          "label": "1"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11764988478"
+        },
+        "title": {
+          "label": "Đừng bao giờ bị mất số điện thoại kèm điện thoại"
+        },
+        "content": {
+          "label": "Trải nghiệm 05 ngày bị giam tài khoản chỉ vì chờ 02 tờ giấy từ ngân hàng gửi về TCBS.\n      Thiết nghĩ thời đại công nghệ chưa áp dụng được vào truong hợp cua tôi ! \n      Quá ưu ái cho cái tổng đài zalo, fb ... trả lời như 1 con robot.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1489077861"
+          },
+          "name": {
+            "label": "Min Nghia"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-24T23:47:40-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11761949465"
+        },
+        "title": {
+          "label": "Tuyệt vời"
+        },
+        "content": {
+          "label": "Ứng dụng trực quan, dễ dàng thao tác. Uy tín, chất lượng\nMã mời: 105CB46679",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id656417737"
+          },
+          "name": {
+            "label": "nguyenlinh185"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-22T06:48:44-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11752256565"
+        },
+        "title": {
+          "label": "App tốt"
+        },
+        "content": {
+          "label": "105CO89678  sử dụng ổn",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1391321749"
+          },
+          "name": {
+            "label": "Trung thanh 1"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-22T03:54:35-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11751734326"
+        },
+        "title": {
+          "label": "105CT91899 tôi thích bảng giá"
+        },
+        "content": {
+          "label": "105CT91899 tôi thích bảng giá",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id257281384"
+          },
+          "name": {
+            "label": "Zeêmta"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-20T00:37:27-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11743715915"
+        },
+        "title": {
+          "label": "Tạm được"
+        },
+        "content": {
+          "label": "Giao diện hơi rối, tối giản hơn nữa cho dễ sử dụng\n105CV19186",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id670773010"
+          },
+          "name": {
+            "label": "Andree911"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-20T22:49:56-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11747174660"
+        },
+        "title": {
+          "label": "Ứng dụng tốt"
+        },
+        "content": {
+          "label": "105CK43456 Tôi đã dùng ứng dụng hơn 1 năm. App chạy nhanh không bị lỗi gì.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1002999241"
+          },
+          "name": {
+            "label": "No name 862"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-20T21:28:53-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11746998149"
+        },
+        "title": {
+          "label": "App lỗi"
+        },
+        "content": {
+          "label": "App lỗi ko loád dc tài sản",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id450517082"
+          },
+          "name": {
+            "label": "Quyet37"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-20T09:05:00-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11745139511"
+        },
+        "title": {
+          "label": "Rất tuyệt vời"
+        },
+        "content": {
+          "label": "Ngân hàng tốt Nhất tôi từng giao dịch.nhân viên tận tâm!",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id927928152"
+          },
+          "name": {
+            "label": "Daonguyen789"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-20T05:32:46-07:00"
+        },
+        "im:rating": {
+          "label": "3"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11744442358"
+        },
+        "title": {
+          "label": "tạm ổn"
+        },
+        "content": {
+          "label": "tạm ổn còn lag",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1346010725"
+          },
+          "name": {
+            "label": "ruoungo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-20T03:30:25-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11744096499"
+        },
+        "title": {
+          "label": "105CI19988 tôi thích bảng giá"
+        },
+        "content": {
+          "label": "105CI19988 tôi thích bảng giá",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1702401380"
+          },
+          "name": {
+            "label": "QueênieB48"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-20T03:21:23-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11744074226"
+        },
+        "title": {
+          "label": "Stability and responsive"
+        },
+        "content": {
+          "label": "Stability and responsive",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id995494518"
+          },
+          "name": {
+            "label": "Bình Xanh"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-19T23:40:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11743600482"
+        },
+        "title": {
+          "label": "105CD59338 tôi thích bảng giá"
+        },
+        "content": {
+          "label": "hi",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id702024121"
+          },
+          "name": {
+            "label": "105CT69286"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-19T23:30:44-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11743580097"
+        },
+        "title": {
+          "label": "105CT69286"
+        },
+        "content": {
+          "label": "Ứng dụng ok",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1207123051"
+          },
+          "name": {
+            "label": "longkk559"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-19T18:39:54-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11742975767"
+        },
+        "title": {
+          "label": "Chứng khoán zero fre"
+        },
+        "content": {
+          "label": "105CF00956 ứng dụng tốt",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id1337818290"
+          },
+          "name": {
+            "label": "Bs.Hồng Lan"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-19T18:00:05-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11742883403"
+        },
+        "title": {
+          "label": "tôi rất hài lòng với tính năng của tcbs"
+        },
+        "content": {
+          "label": "Tôi đã sử dụng tcbs và hài lòng với nó, ưu việt hơn những phần mềm trước đây tôi đã sử dụng.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id507352056"
+          },
+          "name": {
+            "label": "Hoa bo"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-19T14:22:41-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11742394039"
+        },
+        "title": {
+          "label": "105CI12168"
+        },
+        "content": {
+          "label": "105CI12168 tôi thích bảng giá",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id979788752"
+          },
+          "name": {
+            "label": "fgvffy"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-19T10:16:49-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11741753784"
+        },
+        "title": {
+          "label": "Tuyệt vời"
+        },
+        "content": {
+          "label": "105CXN666 tôi thích ứng dụng",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/vn/reviews/id433583078"
+          },
+          "name": {
+            "label": "tuan line fim"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2024-09-19T09:20:47-07:00"
+        },
+        "im:rating": {
+          "label": "5"
+        },
+        "im:version": {
+          "label": "5.7"
+        },
+        "id": {
+          "label": "11741582807"
+        },
+        "title": {
+          "label": "105CB TOIYEUVN tôi thích bảng giá,"
+        },
+        "content": {
+          "label": "Ngân hàng uy tính thân thiện với khách hàng vn.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/vn/review?id=1037255487&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        }
+      }
+    ],
+    "updated": {
+      "label": "2026-09-22T00:16:47-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Customer Reviews"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=vn&id=132385"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/vn/rss/customerreviews/page=7/id=1037255487/sortby=mostHelpful/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/vn/rss/customerreviews/page=1/id=1037255487/sortby=mosthelpful/xml?urlDesc=/customerreviews/page=7/id=1037255487/sortby=mostHelpful/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/vn/rss/customerreviews/page=10/id=1037255487/sortby=mosthelpful/xml?urlDesc=/customerreviews/page=7/id=1037255487/sortby=mostHelpful/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/vn/rss/customerreviews/page=6/id=1037255487/sortby=mosthelpful/xml?urlDesc=/customerreviews/page=7/id=1037255487/sortby=mostHelpful/json"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/vn/rss/customerreviews/page=8/id=1037255487/sortby=mosthelpful/xml?urlDesc=/customerreviews/page=7/id=1037255487/sortby=mostHelpful/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "https://itunes.apple.com/vn/rss/customerreviews/page=7/id=1037255487/sortby=mostHelpful/json"
+    }
+  }
+}

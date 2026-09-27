@@ -1,0 +1,37 @@
+{
+  "app": "TCInvest",
+  "package_id": "com.fss.tcbs.mobiletrading",
+  "source": "Google Play",
+  "collection_date": "2026-09-22",
+  "locale_raw_counts": {
+    "vi_vn": 2712,
+    "en_vn": 511
+  },
+  "rows_before_dedupe": 3223,
+  "rows_after_dedupe": 3223,
+  "unique_review_ids": 3223,
+  "duplicate_review_ids": 0,
+  "cross_locale_duplicates": 0,
+  "earliest_review": "2015-08-13T11:10:30+00:00",
+  "latest_review": "2026-09-21T12:13:27+00:00",
+  "rating_distribution": {
+    "1": 1799,
+    "2": 205,
+    "3": 150,
+    "4": 134,
+    "5": 935
+  },
+  "missing_content": 0,
+  "missing_rating": 0,
+  "missing_date": 0,
+  "missing_app_version": 459,
+  "collection_locale_distribution": {
+    "vi_vn": 2712,
+    "en_vn": 511
+  },
+  "detected_language_distribution": null,
+  "stop_reason": {
+    "vi_vn": "empty_batch",
+    "en_vn": "empty_batch"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "app_id": "1037255487",
+  "storefronts": [
+    {
+      "country": "vn",
+      "lang": "vi_vn"
+    },
+    {
+      "country": "us",
+      "lang": "en_us"
+    }
+  ],
+  "max_pages": 10,
+  "total_unique_reviews": 209,
+  "endpoint_stats": {
+    "vi_vn_page_2_default_json": 50,
+    "vi_vn_page_3_default_xml": 50,
+    "vi_vn_page_3_mostrecent_xml": 50,
+    "vi_vn_page_6_default_json": 50,
+    "vi_vn_page_9_default_json": 50,
+    "vi_vn_page_9_default_xml": 50,
+    "vi_vn_page_9_mostHelpful_xml": 50
+  }
+}

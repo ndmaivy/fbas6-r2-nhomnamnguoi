@@ -1,0 +1,22 @@
+phase_b_theme_family,phase_b_incidents,v1_target,decision,handling_note
+PERFORMANCE_RELIABILITY,21,PERFORMANCE_RELIABILITY,RETAIN,Split app lag from crash/availability as subtypes; exclude praise from complaint counts
+UX_NAVIGATION_COMPLEXITY,21,UX_NAVIGATION_COMPLEXITY,RETAIN,Separate layout and navigation; mobile/tablet subtype stays provisional
+DEPOSIT_WITHDRAWAL_TRANSFER,15,DEPOSIT_WITHDRAWAL_TRANSFER,RETAIN,Do not infer missing funds from a display-only issue
+ONBOARDING_KYC,10,ONBOARDING_KYC,RETAIN,Initial account setup only; existing-account identity update belongs to maintenance
+AUTHENTICATION_IOTP,8,AUTHENTICATION_IOTP,RETAIN,Existing-account login and OTP only; distinguish initial KYC
+CUSTOMER_SUPPORT,7,CUSTOMER_SUPPORT,RETAIN,AI support candidate subtype; keep distinct from the underlying app failure
+TRADING_ORDER_EXECUTION,12,TRADING_ORDER_EXECUTION,RETAIN,Order-specific inability and missing order-entry context; not generic UI discomfort
+PRODUCT_PORTFOLIO_INFORMATION,13,MANUAL_SPLIT,REVIEW_REQUIRED,Split by quote into MARKET_DATA_INFORMATION or PORTFOLIO_ACCOUNT_INFORMATION or MARKET_RESEARCH_RECOMMENDATION_UTILITY; preserve praise as incident type
+FEATURE_REQUEST,3,DOMAIN_OR_OTHER_NEW_THEME,RECODE_TYPE,Feature request is an incident type; place it in a task domain only when the goal is explicit
+OTHER,0,OTHER_NEW_THEME,RECODE_STATE,Specific unmatched problem requires case review; not a stable family
+UNCLEAR,3,UNCLEAR,RECODE_STATE,Insufficient evidence remains an uncertainty state; not a pain-point count
+SECURITY_ACCOUNT_PROTECTION,1,SECURITY_ACCOUNT_PROTECTION,KEEP_PROVISIONAL,User perception of security policy; no confirmed breach
+FEE_PRICING,5,FEE_PRICING,KEEP_PROVISIONAL,Only negative or unmet-need incidents are complaints; fee praise remains praise
+ACCOUNT_RECOVERY_PROFILE_CHANGE,5,ACCOUNT_RECOVERY_PROFILE_CHANGE,KEEP_PROVISIONAL,Existing-account recovery and profile updates; no assumed onboarding stage
+MOBILE_TABLET_RESPONSIVENESS,2,UX_NAVIGATION_COMPLEXITY,PROVISIONAL_SUBTYPE,Subtype for tablet scaling/orientation and mobile control sizing
+EXCESSIVE_DATA_CONSUMPTION,1,EXCESSIVE_DATA_CONSUMPTION,KEEP_PROVISIONAL,Concrete user report only; do not extrapolate consumption
+MARKET_DATA_STALENESS_ACCURACY,2,MARKET_DATA_INFORMATION,PROVISIONAL_SUBTYPE,Data freshness issue; do not infer server/feed root cause
+AI_SUPPORT_CONTEXT_QUALITY,2,CUSTOMER_SUPPORT,PROVISIONAL_SUBTYPE,Check assistant use case; ticker research may warrant separate product discovery coding
+NOTIFICATION_COMMUNICATION,2,NOTIFICATION_COMMUNICATION,KEEP_PROVISIONAL,One incident is praise; only delayed delivery is a complaint
+DIGITAL_SIGNATURE_FLOW,1,OTHER_NEW_THEME,CONTEXT_REQUIRED,Signature task is explicit but initial onboarding journey is not; propose KYC subtype only if context verified
+MARKET_RESEARCH_RECOMMENDATION_UTILITY,1,MARKET_RESEARCH_RECOMMENDATION_UTILITY,KEEP_PROVISIONAL,Perceived usefulness not objective forecasting accuracy
